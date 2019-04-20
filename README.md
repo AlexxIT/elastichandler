@@ -1,0 +1,1 @@
+# Python logs to Elastic
